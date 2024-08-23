@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello i'm Muhammad Fauzi Nur Aziz, I have an interest in Software Development, especially in web developer, i'm currently trying to make a career as a FullStack web developer.
+Hello! I'm Muhammad Fauzi Nur Aziz, a passionate enthusiast in the world of Software Development, with a particular focus on web development. My journey in technology has fueled a deep interest in building dynamic and responsive web applications. Currently, I'm channeling my skills and creativity to pursue a fulfilling career as a FullStack Web Developer, where I can bring ideas to life through code and innovation.
 
 
 ## 🌐 Socials:
